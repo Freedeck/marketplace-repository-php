@@ -7,6 +7,6 @@ All you need to do is throw "repository.php" in a folder, setup your downloads (
 
 Let's say you own `yoururl.com`, and want a freedeck repository at `https://yoururl.com/FreedeckRepository`. You'd throw your downloads and repository.php folder in there, then add it to Freedeck like so:
 
-![demo.png](Click "Marketplace", then Add Unofficial Repository, then add your info)
+![Click "Marketplace", then Add Unofficial Repository, then add your info](demo.png)
 
 **Do not use a trailing slash!**
